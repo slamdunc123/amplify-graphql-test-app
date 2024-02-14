@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "amplifygraphqltestap20061770": {}
+      },
+      "api": {
+        "amplifygraphqltestap": {}
       }
     }
   }
